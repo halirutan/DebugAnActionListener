@@ -1,0 +1,15 @@
+<idea-plugin>
+    <id>halirutan.DebugAnActionListener</id>
+    <name>AnActionListener Debugger</name>
+    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+
+    <description><![CDATA[Debug why AnActionListener gets two instances of the same message >]]></description>
+
+    <application-components>
+        <component>
+            <implementation-class>de.halirutan.DebugAnActionListener</implementation-class>
+        </component>
+
+    </application-components>
+
+</idea-plugin>
